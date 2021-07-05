@@ -1,0 +1,57 @@
+@media (min-width: 601px) and (max-width: 999px){
+    .four{
+        display: none;
+    }
+    .five{
+        display: none;
+    }
+}
+@media (min-width: 0px) and (max-width: 991px){
+    .partisan{
+        display: inherit;
+    }
+    .divison{
+        display: none;
+    }
+    .logo{
+        width: 44%;
+
+     margin: auto;
+    
+      margin-bottom: 20px;
+    }
+    .accordion{
+        margin: auto;
+width: 40%;
+    }
+    .accordion-button i{
+        font-size: 24px;
+    padding-top: 10px;
+padding-right: 10px;
+    color:#f69165;
+    }
+}
+
+
+
+@media (min-width: 0px) and (max-width: 600px) { 
+   
+   
+    .three{
+        display: none;
+
+    }
+    .four{
+        display: none;
+    }
+    .five{
+        display: none;
+    }
+ }
+
+ @media (min-width: 0px) and (max-width: 320px){
+    .accordion{
+        margin: auto;
+        width: 74%;
+   }
+}
